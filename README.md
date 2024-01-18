@@ -1,0 +1,1 @@
+used as a machine learning model to capture wildlife imagery at the University of Texas at San Antonio campus, includes flight routines, including take-off, landing, hovering, and waypoint navigation.
